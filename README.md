@@ -19,7 +19,6 @@ CtMoney é uma aplicação web simples que permite aos usuários gerenciar seus 
 - ESLint
 - Vite
 
-
 ## 📝 Contribuição
 
 Se você deseja contribuir com melhorias para o projeto, siga as etapas abaixo:
