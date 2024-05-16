@@ -52,7 +52,7 @@ function App() {
         <>
             <Container>
                 <Header>
-                    <HeaderText>Sistema Financeiro</HeaderText>
+                    <HeaderText>Ct-Money</HeaderText>
                 </Header>
                 <Body>
                     {/* Área de Informações */}
