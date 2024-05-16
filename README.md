@@ -1,30 +1,32 @@
-# React + TypeScript + Vite
+##  🎉 **Bem-vindo (a) ao CtMoney 💸** 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este app auxilia no controle de gastos mensais dividos de acordo com a sua categoria.
 
-Currently, two official plugins are available:
+## ℹ️ Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+CtMoney é uma aplicação web simples que permite aos usuários gerenciar seus gastos mensais. Foi desenvolvido com as seguintes tecnologias:
 
-## Expanding the ESLint configuration
+- Linguagem: TypeScript
+- Framework: React
+- Banco de Dados: Não foi usado
+- Front-end: ReactJS e Styled Components
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🛠️ Ferramentas Utilizadas
 
-- Configure the top-level `parserOptions` property like this:
+- TypeScript
+- Styled Components
+- React
+- ESLint
+- Vite
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 📝 Contribuição
+
+Se você deseja contribuir com melhorias para o projeto, siga as etapas abaixo:
+
+1. Faça um fork do repositório e clone-o em sua máquina.
+2. Crie uma nova branch para suas modificações.
+3. Faça as alterações necessárias e adicione-as ao stage.
+4. Envie um pull request para que suas modificações sejam revisadas.
+
+Obrigado :D
